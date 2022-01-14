@@ -1,1 +1,1 @@
-# c34-conejo-terminado
+Plantilla del código C34
